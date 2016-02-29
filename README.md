@@ -110,6 +110,16 @@ References
 
 - [Alternate OSC Python library](https://github.com/florianl/pyOSCapi)
 
+Thanks
+------
+Many thanks to Craig Oda, the author and maintainer of [Theta S API Tests](https://github.com/codetricity/theta-s-api-tests) repo.
+
+Author
+------
+The original author of this library is:
+
+- Haarm-Pieter Duiker
+
 Testing
 -
 
