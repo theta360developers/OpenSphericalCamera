@@ -37,10 +37,11 @@ camera.waitForProcessing(response['id'])
 # Copy image to computer
 camera.getLatestImage()
 
+# Close the session
 camera.closeSession()
 ```
 
-Usage of the pure OSC API
+Usage of the Ricoh Theta S extended API
 
 ```python
 from osc.theta import RicohThetaS
@@ -71,6 +72,7 @@ thetas.stopCapture()
 # Copy video to computer
 thetas.getLatestVideo()
 
+# Close the session
 thetas.closeSession()
 ```
 
