@@ -132,4 +132,5 @@ Copyright (c) 2016 Haarm-Pieter Duiker <hpd1@duikerresearch.com>
 
 See the LICENSE file in this repo
 
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/Python-Library-for-OSC-API)
 
